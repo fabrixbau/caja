@@ -1,4 +1,4 @@
-package team_fab_objects;
+package team_fab.objects;
 
 public class Meat extends Product {
     public Meat() {
